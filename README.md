@@ -1,4 +1,4 @@
-# TEAM BLUE – Student Team Members Management Application
+# TEAM SWASTIK – Student Team Members Management Application
 
 A full-stack web application to manage student team members. Built with **React.js** (Frontend) and **Node.js + Express + MongoDB** (Backend).
 
@@ -100,10 +100,12 @@ The frontend runs on `http://localhost:3000`
 1. Start MongoDB service
 2. Open a terminal and start the backend:
    ```bash
-   cd backend && npm start
+   cd backend ; npm start
    ```
 3. Open another terminal and start the frontend:
    ```bash
-   cd frontend && npm start
+   cd frontend ; npm start
    ```
 4. Open `http://localhost:3000` in your browser
+
+5. Open `http://localhost:5000/api/members` in your browser for the backend api calls
