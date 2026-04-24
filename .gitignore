@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+
+# Environment files
+.env
+
+# Build output
+frontend/build/
+
+# Uploaded files (optional: include if you want to track uploads)
+# backend/uploads/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
+
+# PDF and page images (not part of the project)
+pages/
+fsdct.pdf
