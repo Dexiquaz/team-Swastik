@@ -106,6 +106,6 @@ The frontend runs on `http://localhost:3000`
    ```bash
    cd frontend ; npm start
    ```
-4. Open `http://localhost:3000` in your browser
+4. Open `http://localhost:3001` in your browser
 
 5. Open `http://localhost:5000/api/members` in your browser for the backend api calls
